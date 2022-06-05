@@ -1,2 +1,2 @@
-# PotugreseNewsDataset
+# PortugueseNewsDataset
 A news categorization Dataset
