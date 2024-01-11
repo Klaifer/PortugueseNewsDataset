@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.2
+joblib==1.2.0
+lxml==4.9.2
+mwparserfromhell==0.6.4
+numpy==1.25.0
+scikit-learn==1.2.2
+scipy==1.10.1
+soupsieve==2.4.1
+threadpoolctl==3.1.0
