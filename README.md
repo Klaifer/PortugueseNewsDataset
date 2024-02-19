@@ -1,6 +1,6 @@
 # WikiNews dataset
 
-Data for PLOS ONE 2024 paper [Breaking News: Unveiling a New Dataset for Portuguese News Classification and Comparative Analysis of Approaches](https://journals.plos.org/plosone/)
+Data for PLOS ONE 2024 paper [Breaking News: Unveiling a New Dataset for Portuguese News Classification and Comparative Analysis of Approaches](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296929)
 
 WikiNotícias (WikiNews) is a news channel, where articles can be created collaboratively.
 
@@ -49,3 +49,21 @@ Our generated file is available on 'content/json/split ids.csv'. To use it, skip
            --test content/json/wikinews_test.json
 ```
 
+# Citation
+
+If you find this dataset useful, please cite:
+```
+@article{10.1371/journal.pone.0296929,
+    doi = {10.1371/journal.pone.0296929},
+    author = {Garcia, Klaifer AND Shiguihara, Pedro AND Berton, Lilian},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Breaking news: Unveiling a new dataset for Portuguese news classification and comparative analysis of approaches},
+    year = {2024},
+    month = {01},
+    volume = {19},
+    url = {https://doi.org/10.1371/journal.pone.0296929},
+    pages = {1-15},
+    number = {1},
+}
+```
